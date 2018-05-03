@@ -1,0 +1,2 @@
+# BOIDS
+Simulation of starlings
